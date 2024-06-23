@@ -1,2 +1,4 @@
-# Modern-Cryptography-Course-Review
-Course review related to Modern Cryptography, offered by the School of Information Security at Tongji University.
+# Modern Cryptography Course Review
+Refer to this [notion website](https://flyingdoraemon.notion.site/ec0466556ede45beb99875765b86e7c6) for more details!
+
+Star if you like!
